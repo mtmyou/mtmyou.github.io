@@ -51,7 +51,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: dark
+theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
